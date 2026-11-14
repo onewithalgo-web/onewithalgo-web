@@ -1,6 +1,6 @@
 ### Hi, I'm Ndumiso Mbanjwa
 
-I'm a junior SOC and GRC analyst from Pietermaritzburg, South Africa, with a Diploma in Taxation. I've completed 69 graded SOC Simulator investigations (Level 6) and I write up what I find in plain language.
+I'm a junior SOC and GRC analyst from Pietermaritzburg, South Africa, with a Diploma in Taxation. I've completed 79 graded SOC Simulator investigations (Level 7) and I write up what I find in plain language.
 
 **Looking for:** a junior SOC analyst, security compliance or GRC role. I'm available immediately, in South Africa or remote.
 
